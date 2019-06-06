@@ -1,9 +1,5 @@
 FINAL YEAR PROJECT - FOUNDATION UNIVERSITY .
-LANGUAGE : JAVA
-DATABASE : MySQL  
-STORAGE : Database + Filing
-Framework : JavaServer Faces
-IDE : NETBEANS 
+
 
 # SEARCHABLE ENCRYPTION BASED PRIVATE EMAIL SERVER
 
@@ -40,4 +36,13 @@ Chase, Melissa, and Emily Shen. "Substring-searchable symmetric encryption." Pro
 Xu, Lei, Chunxiao Jiang, Jian Wang, Jian Yuan, and Yong Ren. "Information security in big data: privacy and data mining." IEEE Access 2 (2014): 1149-1176. 
 
 
+# Tools and Language
+LANGUAGE : JAVA
 
+DATABASE : MySQL  
+
+STORAGE : Database + Filing
+
+Framework : JavaServer Faces
+
+IDE : NETBEANS 
