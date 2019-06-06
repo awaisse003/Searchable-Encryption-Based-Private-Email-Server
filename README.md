@@ -2,12 +2,19 @@ FINAL YEAR PROJECT - FOUNDATION UNIVERSITY .
 
 # SEARCHABLE ENCRYPTION BASED PRIVATE EMAIL SERVER
 
-#  Mostly, email server reuse , resale , monetize  our personnel emails to business analysis companies . Legally it is not allowed but as # we are using there H/W and S/W so, technically they are eligible .We can overcome this problem with the help of “ Searchable Encryption “ with full functionality .
- 
- # PROJECT ABSTRACT :
- A Secure Private Email Server based on Searchable Encryption that will make user's data Secure (unreadable/Unviewable / Unplayable ) to Server itself and  even to 3rd parties.
+PROBLEM STATEMENT : 
+
+Mostly, email server reuse , resale , monetize  our personnel emails to business analysis companies . Legally it is not allowed but as  we are using there H/W and S/W so, technically they are eligible .
+
+SOLUTION : 
+
+A Secure Private Email Server based on Searchable Encryption that will make user's data Secure (unreadable/Unviewable / Unplayable ) to Server itself and  even to 3rd parties.
 
 Our Solution is novel based and with the help of this proposed solution we can store and retrieve  our data in secure manner on unsecure server.
+
+We can overcome this problem with the help of “ Searchable Encryption “ with full functionality .
+ 
+ 
 # Project Objective
 1. The objective of our system is to secure user’s (text + attachment )data in untrusted server 
 
